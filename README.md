@@ -22,21 +22,19 @@ screenshot capturing of both working and non-working domains, enhancing informat
 testers and security professionals.
 
 * **Vulnerability Scanner and Exploit Tool**: Developed a tool that scans network assets for vulnerabilities and provides exploitation proof-of-concepts for educational and controlled environments. Built using Python, Nmap, and public CVE databases.
-Project Link
 
 * **Automated Malware Analysis Sandbox**: Created an isolated environment that automates malware analysis, giving detailed reports on behavior, network activity, and detection evasion techniques using Python scripts and reverse engineering.
-Project Link
 
 * **Bug Bounty Research Reports**: Performed and documented ethical hacking attempts on publicly available bug bounty programs. Submitted successful vulnerability disclosures and contributed to enhancing security posture.
-Project Link
 
 * **Secure Web Application Demo**: Developed a basic yet secure web app with user authentication, XSS/SQLi protections, and session handling to demonstrate OWASP Top 10 security principles. Built using Django (Python), with SQLite as the backend database.
-Project Link
+
+* **Name sorting and dupicate counter**: A lightweight, Excel-like web tool built using HTML and JavaScript to efficiently track names. Features include auto-suggestions, alphabetical and frequency-based sorting, CSV export, keyboard-based input, and individual entry deletion — all running fully offline using browser localStorage.
 
 
 Connect with Me:
 -
-Email: aryanraj@example.com
+Email: neeradiaryanraj70@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/aryanraj70](https://www.linkedin.com/in/aryanraj70)
 
